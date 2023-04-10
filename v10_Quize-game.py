@@ -4,7 +4,7 @@ print("Hey "+person+" Welcome!!")
 
 score = 0
 questions = 5
-
+#trial
 print(person+" Are you ready to play?? ")
 ready = input()
 if ready == "yes":
